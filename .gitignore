@@ -7,3 +7,8 @@ ALL.chr21.phase3_shapeit2_mvncall_integrated_v5a.20130502.genotypes.vcf.gz
 *.nof
 .DS_Store
 ~*
+
+# fichiers TAR
+
+*.tar.bz2
+
