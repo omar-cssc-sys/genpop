@@ -22,5 +22,5 @@ du chromosome 21 (1% des variants du fichier 1000 Genomes phase 3).
 - R / ggplot2
 
 ## Auteur
-omar-cssc-sys
-email : omar-cssc@hotmail.com
+- omar-cssc-sys
+- email : omar-cssc@hotmail.com
