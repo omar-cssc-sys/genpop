@@ -8,6 +8,7 @@ du chromosome 21 (1% des variants du fichier 1000 Genomes phase 3).
 - Source : 1000 Genomes Project Phase 3
 - Chromosome : 21
 - Variants retenus : ~11 000 SNPs (subset chr21)
+- Lien : https://hgdownload.soe.ucsc.edu/gbdb/hg19/1000Genomes/phase3/
 
 ## Structure du projet
 ├── plink/        # Fichiers binaires PLINK (bed, bim, fam)
